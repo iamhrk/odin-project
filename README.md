@@ -1,2 +1,2 @@
 # odin-project
-The Odin Project repo
+This is a test repo for the odin project at the moment.
